@@ -133,7 +133,7 @@ body {
 
 /*Button*/
 
-.button {
+.btn {
   color: var(--primary-white-color);
   background-color: var(--accent-color);
   font-weight: 700;
@@ -145,7 +145,7 @@ body {
   cursor: pointer;
 }
 
-.buttons {
+.button {
   background-color: var(--primary-text-color);
   color: var(--title-text-color);
   font-weight: 500;
@@ -154,15 +154,15 @@ body {
   cursor: pointer;
 }
 
-.buttons:hover,
-.buttons:focus {
+.button:hover,
+.button:focus {
   background-color: var(--accent-color);
   color: var(--primary-white-color);
 }
 
-/*Futer*/
+/*Footer*/
 
-.futer {
+.footer {
   background-color: var(--secondary-fon-color);
 }
 
