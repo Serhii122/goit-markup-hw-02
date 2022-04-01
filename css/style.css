@@ -93,7 +93,7 @@ body {
   text-align: center;
 }
 
-.section-name {
+.section-subject {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
@@ -187,7 +187,7 @@ body {
   text-decoration: none;
 }
 
-.name-title {
+.subject-title {
   color: var(--title-text-color);
   font-weight: 700;
   font-size: 18px;
