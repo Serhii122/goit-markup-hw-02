@@ -12,7 +12,6 @@ body {
   background-color: #fff;
   color: var(--primary-text-color);
   font-family: Roboto, sans-serif;
-  letter-spacing: 0.03em;
 }
 
 .list {
@@ -27,13 +26,14 @@ body {
   font-size: 26px;
   line-height: 1.19;
   text-decoration: none;
+  letter-spacing: 0.03em;
 }
 
 .logo-title {
   color: var(--title-text-color);
 }
 
-.logo-futer {
+.logo-footer {
   color: var(--primary-white-color);
 }
 
@@ -78,7 +78,7 @@ body {
   color: var(--primary-white-color);
   font-weight: 900;
   font-size: 44px;
-  line-height: 0.73;
+  line-height: 1.36;
   text-align: center;
   letter-spacing: 0.06em;
 }
@@ -90,6 +90,7 @@ body {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.71;
+  letter-spacing: 0.03em;
   text-align: center;
 }
 
@@ -97,6 +98,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
+  letter-spacing: 0.03em;
   text-align: center;
 }
 
@@ -104,6 +106,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.19;
+  letter-spacing: 0.03em;
   text-align: center;
 }
 
@@ -146,11 +149,12 @@ body {
 }
 
 .button {
-  background-color: var(--primary-text-color);
+  background-color: var(--primary-gray-color);
   color: var(--title-text-color);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.63;
+  letter-spacing: 0.03em;
   cursor: pointer;
 }
 
@@ -170,7 +174,9 @@ body {
   color: var(--primary-white-color);
   font-weight: 400;
   font-size: 14px;
-  line-height: 1.17;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  font-style: normal;
   text-decoration: none;
 }
 
@@ -178,12 +184,14 @@ body {
   color: var(--secondary-text-color);
   font-weight: 400;
   font-size: 14px;
-  line-height: 1.17;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  font-style: normal;
   text-decoration: none;
 }
 /*Portfolio*/
 
-.list-robot {
+.list-work {
   text-decoration: none;
 }
 
@@ -192,6 +200,7 @@ body {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
+  letter-spacing: 0.06em;
 }
 
 .text-section {
@@ -199,4 +208,5 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.88;
+  letter-spacing: 0.03em;
 }
